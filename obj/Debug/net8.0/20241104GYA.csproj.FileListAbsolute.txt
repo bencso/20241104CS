@@ -1,0 +1,14 @@
+C:\Users\babolnai.bence\source\repos\20241104GYA\bin\Debug\net8.0\20241104GYA.exe
+C:\Users\babolnai.bence\source\repos\20241104GYA\bin\Debug\net8.0\20241104GYA.deps.json
+C:\Users\babolnai.bence\source\repos\20241104GYA\bin\Debug\net8.0\20241104GYA.runtimeconfig.json
+C:\Users\babolnai.bence\source\repos\20241104GYA\bin\Debug\net8.0\20241104GYA.dll
+C:\Users\babolnai.bence\source\repos\20241104GYA\bin\Debug\net8.0\20241104GYA.pdb
+C:\Users\babolnai.bence\source\repos\20241104GYA\obj\Debug\net8.0\20241104GYA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babolnai.bence\source\repos\20241104GYA\obj\Debug\net8.0\20241104GYA.AssemblyInfoInputs.cache
+C:\Users\babolnai.bence\source\repos\20241104GYA\obj\Debug\net8.0\20241104GYA.AssemblyInfo.cs
+C:\Users\babolnai.bence\source\repos\20241104GYA\obj\Debug\net8.0\20241104GYA.csproj.CoreCompileInputs.cache
+C:\Users\babolnai.bence\source\repos\20241104GYA\obj\Debug\net8.0\20241104GYA.dll
+C:\Users\babolnai.bence\source\repos\20241104GYA\obj\Debug\net8.0\refint\20241104GYA.dll
+C:\Users\babolnai.bence\source\repos\20241104GYA\obj\Debug\net8.0\20241104GYA.pdb
+C:\Users\babolnai.bence\source\repos\20241104GYA\obj\Debug\net8.0\20241104GYA.genruntimeconfig.cache
+C:\Users\babolnai.bence\source\repos\20241104GYA\obj\Debug\net8.0\ref\20241104GYA.dll
